@@ -1,7 +1,7 @@
 # iOS Challenge
 
 The main goal of this challenge is allow us to know better your skills.
-This challenge must be done completely by yourself.
+This challenge must be completely done by yourself.
 
 ## Instructions
 1. Fork this project
@@ -28,7 +28,7 @@ You can base your UI in this mockup, but feel free to develop whatever you want!
 * Use .gitignore
 * Storyboard and autolayout
 * Cocoapods or Carthage for dependencies
-* Alamofire or an network framework
+* Alamofire or a network framework
 * Unit test
 
 ## Would be nice, but not required:
@@ -41,7 +41,7 @@ You can base your UI in this mockup, but feel free to develop whatever you want!
 ## Test
 Your project will be evaluated according to the following criteria:
 * Does your project have the basics requirements?
-* Do you documented your project (configuration, environment, code)?
+* Did you document your project (configuration, environment, code)?
 
 
 If you have any question, feel free to contact us!
