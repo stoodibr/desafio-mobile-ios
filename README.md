@@ -2,13 +2,13 @@
 
 A idéia deste desafio é nos permitir avaliar melhor as habilidades de candidatos à vagas de programador, de vários níveis.
 
-Este desafio deve ser feito por você em sua casa. O tempo limite é de três dias, porém normalmente você não deve precisar de mais do que algumas horas.
+Este desafio deve ser feito por você em sua casa. O tempo limite é de sete dias.
 
 ## Instruções de entrega do desafio
 
-1. Primeiro, faça um fork deste projeto para sua conta no GitHub (crie uma se você não possuir).
+1. Primeiro, faça um fork deste projeto para sua conta no Bitbucket (crie uma se você não possuir).
 1. Em seguida, implemente o projeto tal qual descrito abaixo, em seu próprio fork.
-1. Por fim, empurre todas as suas alterações para o seu fork no GitHub e envie um pull request para este repositório original. 
+1. Por fim, empurre todas as suas alterações para o seu fork no Bitbucket e envie um pull request para este repositório original. 
 
 ## Descrição do projeto
 
@@ -33,6 +33,7 @@ Sua aplicação deve:
 - usar Storyboard e Autolayout
 - usar gestão de dependências no projeto. Ex: Cocoapods
 - usar um Framework para Comunicação com API. Ex: Alamofire
+- ser implementada utilizando algum padrão de arquitetura
 - possuir boa cobertura de testes unitários no projeto. Ex: XCTests / Quick + Nimble
 
 Você ganha mais pontos se:
